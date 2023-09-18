@@ -3,7 +3,7 @@ An explanation of QuickBus Nigeria's 2022 business performance with respect to G
 
 As the lead of the operations of QuickBus Nigeria, I had the responsibility to report on the Nigerian business to the rest of the team, the teams in other markets and the C-suite.
 Before I go further, let me give a summary of what QuickBus is and the work that we do.
-QuickBus is an inter-city long distance bus travel aggregator, connecting travellers and bus operators digitally. Actually, I wrote a medium article of our one year anniversary in Nigeria, you can read [here](https://medium.com/@obi.nnebe/one-year-of-quickbus-nigeria-dc8ca2c8ef62 "One Year of QuickBus Nigeria")
+QuickBus is an inter-city long distance bus travel aggregator, connecting travellers and bus operators digitally. Actually, I wrote a Medium article of our one year anniversary in Nigeria, you can read [here](https://medium.com/@obi.nnebe/one-year-of-quickbus-nigeria-dc8ca2c8ef62 "One Year of QuickBus Nigeria")
 
 **Steps Taken:**
 
