@@ -21,3 +21,4 @@ In the analysis of the company's data, the following steps were taken;
 6. After creating the pivot tables, I plotted charts in a different sheet to answer each question.
 
 The results of the analysis and recommendations have been attached in this repo as pdf.
+It is also worthy to note that permission was obtained from management of the company to display this analysis and the information publicly on my pertfolio.
